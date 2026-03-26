@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey 👋, I'm Krishna
 
-<!--
-**codeitkrishna/codeitkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | Designer | Incoming @ Oracle
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently
+
+* Building **GitLog AI** – AI-powered changelog generator
+* Learning **Next.js** & improving full-stack fundamentals
+* Exploring **AI/ML applications**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** JavaScript, TypeScript, C++
+* **Frontend:** React, Next.js
+* **Tools:** Git, Figma
+
+---
+
+## 📌 Projects
+
+* **GitLog AI** → Turn commit history into clean changelogs using AI
+* **Time Zone Collaborator** → UI/UX tool for global teams
+
+---
+
+## 🎯 Goals (2026)
+
+* Become job-ready in AI/ML
+* Build impactful dev tools
+* Grow as a tech + design creator
+
+---
+
+## 📫 Connect
+
+* LinkedIn: (add link)
+* Portfolio: (add link)
+
+---
