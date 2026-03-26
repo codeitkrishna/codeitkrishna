@@ -1,6 +1,6 @@
 # Hey 👋, I'm Krishna
 
-🚀 Developer | Designer | Incoming @ Oracle
+🚀 Developer | Designere | Consultant @ Oracle
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** JavaScript, TypeScript, C++
+* **Languages:** JavaScript, TypeScript, Java
 * **Frontend:** React, Next.js
 * **Tools:** Git, Figma
 
@@ -23,7 +23,7 @@
 ## 📌 Projects
 
 * **GitLog AI** → Turn commit history into clean changelogs using AI
-* **Time Zone Collaborator** → UI/UX tool for global teams
+* **Time Zone Collaborator** → UI/UX design project for global teams
 
 ---
 
@@ -37,7 +37,6 @@
 
 ## 📫 Connect
 
-* LinkedIn: (add link)
-* Portfolio: (add link)
+* LinkedIn: www.linkedin.com/in/krishnaaagupta
 
 ---
