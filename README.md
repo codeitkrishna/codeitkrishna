@@ -1,6 +1,6 @@
 # Hey 👋, I'm Krishna
 
-🚀 Developer | Designere | Consultant @ Oracle
+🚀 Developer | Designer | Consultant @ Oracle
 
 ---
 
