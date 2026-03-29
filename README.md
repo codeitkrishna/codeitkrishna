@@ -8,7 +8,7 @@
 
 * Building **GitLog AI** – AI-powered changelog generator
 * Learning **Next.js** & improving full-stack fundamentals
-* Exploring **AI/ML applications**
+* Exploring **Agentic and Generative AI Applications**, **Containerisation Fundamentals**
 
 ---
 
